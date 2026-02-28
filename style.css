@@ -1,0 +1,29 @@
+#header{
+    color: brown;/*заголовок коричневого цвета*/
+    text-align: center;/*выравниваем текс по центру*/
+
+
+.highlight{
+    color: blue;/*абзац синего цвет*/
+    text-align: center;/*выравниваем текс по центру*/
+}
+
+.elemets{
+    color: aqua;/*элементы цвет аква*/
+    font-weight: bold;/*задаем жирность тексту*/
+    text-align: center;/*выравниваем текс по центру*/
+}
+
+h1 {
+    color: red;
+}
+
+
+.highlight {
+    color: green;
+}
+
+
+#main-title {
+    color: blue;
+}
